@@ -1,4 +1,4 @@
-# CSharpPractice
-Part of my plan to study C#
-References - 
-1. csharplecture.github.io
+# ** CSharpPractice **
+## Part of my plan to study C#
+### References - 
+- [ ] csharplecture.github.io
