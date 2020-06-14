@@ -15,7 +15,7 @@ namespace HelloWorld
 		{
 			//Writing something to the console is easily possible using the
 			//class Console with the static method Write or WriteLine
-			Console.WriteLine("Hello CSharp!");
+			Console.WriteLine("Hello World!");
 		}
 	}
 }
