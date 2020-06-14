@@ -18,12 +18,12 @@ class Program
         //the brackets [] has the property Length.
         Console.WriteLine("Length = " + myints.Length);
 
-        //This foreach construct is new in C#
+        //This foreach construct is new in C#. (Compared to C++)
         foreach(int myint in myints)
         {
             //Write will not start a new line after the string.
             Console.Write("The element is given by ");
-            //WriteLine will do that.
+            //WriteLine will start a new line after performing the operation.
             Console.WriteLine(myint);
         }
     }
