@@ -75,7 +75,7 @@ namespace Task05
 
                 if (rest == 0)
                 {
-                    //Checking the Prime factor
+                    //Breaking the Number into a Prime factor
                     number /= factor;
                     //Adding the factor
                     factors.Add(factor);
