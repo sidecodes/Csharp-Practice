@@ -38,9 +38,9 @@ namespace Structures
         }
 
         //A structure always inherits ONLY from object,
-        //we cannot specify other classes (more on that later)
+        //we cannot specify other classes (more on that later...)
         //However, an arbitrary number of interfaces can
-        //be implemented (more on that later as well)
+        //be implemented (more on that later as well..)
         struct SampleStruct
         {
             
