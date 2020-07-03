@@ -90,7 +90,7 @@ namespace StringandStringBuilder
 
             Console.WriteLine(s2);
 
-            Console.WriteLine("==========================");
+            Console.WriteLine("===========================");
 
             // Instantiate a String object
             /* 
