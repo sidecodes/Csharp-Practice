@@ -83,7 +83,7 @@ namespace StringandStringBuilder
             Console.WriteLine(s1);
 
             // 2nd method using stringbuilder
-            String s2 = "Herlo";
+            string s2 = "Herlo";
             StringBuilder sb = new StringBuilder(s2);
             sb.Replace('r','l');
             s2 = sb.ToString();
@@ -91,6 +91,19 @@ namespace StringandStringBuilder
             Console.WriteLine(s2);
 
             Console.WriteLine("===========================");
+
+            // string Object Operations
+            Console.WriteLine("String Object Operations");
+            string strs1 = "LOL";
+            string strs2 = "LOL";
+            Console.WriteLine(strs1.CompareTo(strs2));
+            Console.WriteLine(strs1.Equals(strs2));
+            Console.WriteLine(strs1[2]);
+            Console.WriteLine(strs1.Length);
+            Console.WriteLine(strs1[1].GetType());
+            Console.WriteLine(strs1.ToLower());
+
+            Console.WriteLine("============================");
 
             // Instantiate a String object
             /* 
