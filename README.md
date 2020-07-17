@@ -7,7 +7,7 @@ This Repository contains the codes of my practice for c# programming language. I
 
 For more information you can check out the references. 
 
-### References -
+### References
 
 1. [shahid sultan](https://www.linkedin.com/in/shahid-khan-4aaa903b/)
    - [ ] Day0/
