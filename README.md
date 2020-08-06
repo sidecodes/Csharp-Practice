@@ -8,8 +8,7 @@ This Repository contains the codes of my practice for c# programming language. I
 For more information you can check out the references. 
 
 ### References
-
-1. [shahid sultan](https://www.linkedin.com/in/shahid-khan-4aaa903b/)
+1. [MS Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history)
    - [ ] Day0/
 2. [csharplecture](http://csharplecture.github.io)
    - [x] Day1/
